@@ -6868,7 +6868,7 @@ button.mfp-arrow {
 
 /* new */
 .serv-box {
-  color: #fff;
+  color: #000;
   list-style: none;
   padding: 0;
 }
@@ -6883,4 +6883,5 @@ button.mfp-arrow {
 }
 .accred img:hover {
   filter: none;
+  transform: scale(1.05);
 }
